@@ -1,6 +1,4 @@
----
-
-**REST API Template with Express and TypeScript**
+## REST API Template with Express and TypeScript**
 
 **Description:**  
 This template serves as a foundation for quickly creating a REST API using Express and TypeScript, along with OpenAPI-generated documentation. Currently in the development and improvement phase, it is advised not to use it in a production environment.
