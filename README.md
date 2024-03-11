@@ -1,22 +1,19 @@
-# Template API REST 
+---
 
-**Description**
+**REST API Template with Express and TypeScript**
 
-The template for my personal speed craete a API REST with express typescript
-and genarate documentation openapi
-Is it in creation and amélioration, note use in production 
+**Description:**  
+This template serves as a foundation for quickly creating a REST API using Express and TypeScript, along with OpenAPI-generated documentation. Currently in the development and improvement phase, it is advised not to use it in a production environment.
 
+**Tasks:**
+- Create the API documentation.
+- Add specific use cases.
 
-No db implementation 
+**Resources used for creation:**
+- Official ExpressJS documentation and guides on CORS usage:
+  - [ExpressJS Middleware CORS](https://expressjs.com/en/resources/middleware/cors.html)
+  - [Using CORS in Express](https://medium.com/zero-equals-false/using-cors-in-express-cac7e29b005b)
+- Video tutorials and articles on building a REST API with Express, TypeScript, and Swagger:
+  - [YouTube Video on CORS and Express](https://www.youtube.com/watch?v=NRxzvpdduvQ)
+  - [Building a REST API with Express, TypeScript, and Swagger](https://medium.com/ms-club-of-sliit/building-rest-api-with-express-js-typescript-and-swagger-387a9c731717)
 
-Task :
-- Create dockumentaion 
-- Add specifique use 
-- 
-
-Source for craetion :
-- Doc officels 
-- https://expressjs.com/en/resources/middleware/cors.html
-- https://medium.com/zero-equals-false/using-cors-in-express-cac7e29b005b
-- https://www.youtube.com/watch?v=NRxzvpdduvQ
-- https://medium.com/ms-club-of-sliit/building-rest-api-with-express-js-typescript-and-swagger-387a9c731717
