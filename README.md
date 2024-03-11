@@ -18,6 +18,9 @@ mkdir routes
 mkdir models
 mkdir controllers
 mkdir public
+mkdir src
+mkdir build
+
 ```
 
 
