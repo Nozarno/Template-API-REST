@@ -7,7 +7,7 @@ This template serves as a foundation for quickly creating a REST API using Expre
 
 - Clone and delete git link (rmdir for window)
 ```bash
-git clone git@github.com:Nozarno/Template-API-REST.git naeNewProjet
+git clone git@github.com:Nozarno/Template-API-REST.git nameNewProjet
 cd nameNewProjet
 rm -rf .git
 rmdir /s /q .git 
