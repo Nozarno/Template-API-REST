@@ -12,6 +12,15 @@ cd nameNewProjet
 rm -rf .git
 rmdir /s /q .git 
 ```
+- create directory (MVC + routes)
+```bash
+mkdir routes
+mkdir models
+mkdir controllers
+mkdir public
+```
+
+
 - Craete a new repo
 
 **Tasks:**
