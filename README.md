@@ -3,6 +3,17 @@
 **Description:**  
 This template serves as a foundation for quickly creating a REST API using Express and TypeScript, along with OpenAPI-generated documentation. Currently in the development and improvement phase, it is advised not to use it in a production environment.
 
+**Use:**
+
+- Clone and delete git link (rmdir for window)
+```bash
+git clone git@github.com:Nozarno/Template-API-REST.git naeNewProjet
+cd nameNewProjet
+rm -rf .git
+rmdir /s /q .git 
+```
+- Craete a new repo
+
 **Tasks:**
 - Create the API documentation.
 - Add specific use cases.
